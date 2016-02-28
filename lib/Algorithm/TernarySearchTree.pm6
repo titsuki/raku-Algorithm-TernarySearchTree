@@ -136,7 +136,7 @@ Returns whether given key exists in the tree.
 
        my Set $matched = $tst.partial-match($fuzzy-key);
 
-Searchs partially matched keys in the tree. If you want to match any character except record separator(hex: 0x1e), you can use dot symbol. For example, the query "Perl." matches "Perla", "Perl5", "Perl6", and so on.
+Searches partially matched keys in the tree. If you want to match any character except record separator(hex: 0x1e), you can use dot symbol. For example, the query "Perl." matches "Perla", "Perl5", "Perl6", and so on.
 
 =head2 METHODS NOT YET IMPLEMENTED
 
