@@ -1,6 +1,6 @@
 {
   "name" : "Algorithm::TernarySearchTree",
-  "source-url" : "git://github.com/okaoka/p6-Algorithm-TernarySearchTree.git",
+  "source-url" : "git://github.com/titsuki/p6-Algorithm-TernarySearchTree.git",
   "perl" : "6.c",
   "resources" : [ ],
   "build-depends" : [ ],
@@ -13,6 +13,6 @@
   "test-depends" : [ ],
   "version" : "0.02",
   "authors" : [
-    "okaoka"
+    "titsuki"
   ]
 }
