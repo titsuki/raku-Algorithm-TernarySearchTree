@@ -11,7 +11,7 @@
   "depends" : [ ],
   "description" : "the algorithm which blends trie and binary search tree",
   "test-depends" : [ ],
-  "version" : "0.03",
+  "version" : "0.04",
   "authors" : [
     "titsuki"
   ]
