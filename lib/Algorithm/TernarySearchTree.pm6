@@ -1,7 +1,7 @@
 use v6;
 use Algorithm::TernarySearchTree::Node;
 
-unit class Algorithm::TernarySearchTree;
+unit class Algorithm::TernarySearchTree:ver<0.0.5>:auth<zef:titsuki>;
 
 has $.root;
 has Str $!record-separator = '30'.chr;

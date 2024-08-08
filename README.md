@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/titsuki/p6-Algorithm-TernarySearchTree.svg?branch=master)](https://travis-ci.org/titsuki/p6-Algorithm-TernarySearchTree)
+[![Actions Status](https://github.com/titsuki/raku-Algorithm-TernarySearchTree/actions/workflows/test.yml/badge.svg)](https://github.com/titsuki/raku-Algorithm-TernarySearchTree/actions)
 
 NAME
 ====
